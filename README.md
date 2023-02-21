@@ -13,6 +13,11 @@ languages.
 This repo willl be updated as I make progress reading the associated
 book and experimenting.
 
+If interested in my comments associated with this repo I invite you
+to read the following post in my blog:
+
+https://www.johncanessa.com/2023/02/21/dop-underscore/
+
 Enjoy;
 
 John
